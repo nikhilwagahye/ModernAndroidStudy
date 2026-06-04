@@ -14,8 +14,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.avatarapp.ui.MainViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch
@@ -48,6 +50,7 @@ class MainActivity : ComponentActivity() {
 fun EpisodeListScreen(viewModel: MainViewModel = hiltViewModel()) {
     val episodes by viewModel.episodes.collectAsStateWithLifecycle()
     val isLoading by viewModel.isLoading.collectAsStateWithLifecycle()
+   //  val episodes by viewModel.episodes.collectAsState();
 
     EpisodeListContent(
         episodes = episodes,
@@ -79,7 +82,8 @@ fun EpisodeListContent(
         val context = LocalContext.current
 
         Column(modifier = Modifier.padding(innerPadding)) {
-            Text(text = "Welcome to Jetpack Compose!")
+            Text(text = "Welcome to Jetpack Compose!",
+                fontSize = 15.sp)
 
             Button(
                 onClick = {
@@ -89,6 +93,7 @@ fun EpisodeListContent(
                         Toast.LENGTH_SHORT
                     ).show()
                     onFetchEpisodes()
+                    //viewModel.fetchEpisodes();
                 },
                 enabled = !isLoading
             ) {

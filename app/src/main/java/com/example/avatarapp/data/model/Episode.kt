@@ -15,7 +15,15 @@ data class Episode(
     @Json(name = "OriginalAirDate") val originalAirDate: String,
     @Json(name = "ProductionCode") val productionCode: String?,
     @Json(name = "Viewers") val viewers: String?
+    // @Json(name = "address") val address: Address
 )
+
+//
+//@JsonClass(generateAdapter = true)
+//data class Address(
+//    @Json(name = "Viewers") val street: String,
+//    @Json(name = "Viewers") val city: String
+//)
 /*
 
 package com.example.avatarapp.data.model
