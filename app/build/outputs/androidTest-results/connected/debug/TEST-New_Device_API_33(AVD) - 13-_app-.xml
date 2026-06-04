@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.avatarapp.EpisodeListTest" tests="4" failures="0" errors="0" skipped="0" time="7.559" timestamp="2026-06-04T11:55:27" hostname="localhost">
+  <properties>
+    <property name="device" value="New_Device_API_33(AVD) - 13" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="listDisplaysItems_whenEpisodesProvided" classname="com.example.avatarapp.EpisodeListTest" time="2.11" />
+  <testcase name="loadingIndicator_isVisible_whenLoading" classname="com.example.avatarapp.EpisodeListTest" time="1.345" />
+  <testcase name="welcomeText_isVisible" classname="com.example.avatarapp.EpisodeListTest" time="1.679" />
+  <testcase name="buttonClick_triggersFetchEpisodes" classname="com.example.avatarapp.EpisodeListTest" time="1.699" />
+</testsuite>

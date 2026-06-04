@@ -1,0 +1,125 @@
+06-04 17:25:23.656 22640 22660 I TestRunner: started: welcomeText_isVisible(com.example.avatarapp.EpisodeListTest)
+06-04 17:25:23.658 22640 22660 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@55572f9]
+06-04 17:25:23.658   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d27130
+06-04 17:25:23.658   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d25f90
+06-04 17:25:23.680 22640 22660 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:25:23.707   787   997 D SplashScreenView: Build android.window.SplashScreenView{ebf3044 V.E...... ......ID 0,0-0,0}
+06-04 17:25:23.707   787   997 D SplashScreenView: Icon: view: null drawable: null size: 0
+06-04 17:25:23.707   787   997 D SplashScreenView: Branding: view: android.view.View{b4752d G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+06-04 17:25:23.741  1082  1082 D MainContentCaptureSession: Flushing 1 event(s) for act:com.google.android.apps.nexuslauncher/.NexusLauncherActivity [state=2 (ACTIVE), disabled=false], reason=FULL
+06-04 17:25:23.743   594  1797 W InputManager-JNI: Input channel object '19d1cce com.example.avatarapp.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+06-04 17:25:23.745   594   626 E libprocessgroup: AddTidToCgroup failed to write '22640'; fd=508: Invalid argument
+06-04 17:25:23.745   594   626 E libprocessgroup: Failed to add task into cgroup
+06-04 17:25:23.747 22640 22640 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@431766d in: PRE_ON_CREATE
+06-04 17:25:23.747 22640 22640 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-04 17:25:23.754 22640 22640 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@431766d in: CREATED
+06-04 17:25:23.754 22640 22640 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@431766d
+06-04 17:25:23.754 22640 22640 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@431766d in: STARTED
+06-04 17:25:23.754 22640 22640 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@431766d
+06-04 17:25:23.755 22640 22640 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@431766d in: RESUMED
+06-04 17:25:23.755 22640 22640 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@431766d
+06-04 17:25:23.756   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d25b70
+06-04 17:25:23.756   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d23650
+06-04 17:25:23.756   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d26b30
+06-04 17:25:23.756   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d218b0
+06-04 17:25:23.756   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d26b30
+06-04 17:25:23.756   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d25b70
+06-04 17:25:23.757   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d26b30
+06-04 17:25:23.757   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.757   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.807   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.807   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.869 22640 22662 W Parcel  : Expecting binder but got null!
+06-04 17:25:23.895   594   611 W ziparchive: Unable to open '/data/app/~~C2uOZVzoy04Q8Cwnr3Dqbg==/com.example.avatarapp-Ei5BrHL0XT8J_xCUHlWhWg==/base.dm': No such file or directory
+06-04 17:25:23.896   594   611 I ActivityTaskManager: Displayed com.example.avatarapp/androidx.activity.ComponentActivity: +209ms
+06-04 17:25:23.896   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.899   787  1020 D EGL_emulation: app_time_stats: avg=25.28ms min=1.81ms max=161.50ms count=28
+06-04 17:25:23.928  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+06-04 17:25:23.928  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+06-04 17:25:23.929  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.avatarapp fieldId=-1 fieldName=null extras=null}, false)
+06-04 17:25:23.929  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+06-04 17:25:23.961   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d279d0
+06-04 17:25:24.013   787  1020 W Parcel  : Expecting binder but got null!
+06-04 17:25:24.025   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:24.025   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:24.057   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:24.117   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:24.117   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:24.117   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:24.210 22640 22640 D AutofillManager: Fill dialog is enabled:false, hints=[password, passwordAuto, creditCardNumber, creditCardSecurityCode, creditCardExpirationDate]
+06-04 17:25:24.213   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:24.213   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:24.213   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:24.213   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:24.280   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d25750
+06-04 17:25:24.359 22640 22640 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@431766d in: PAUSED
+06-04 17:25:24.359 22640 22640 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@431766d
+06-04 17:25:24.404   787   997 D SplashScreenView: Build android.window.SplashScreenView{88b9012 V.E...... ......ID 0,0-0,0}
+06-04 17:25:24.404   787   997 D SplashScreenView: Icon: view: null drawable: null size: 0
+06-04 17:25:24.404   787   997 D SplashScreenView: Branding: view: android.view.View{93e03e3 G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+06-04 17:25:24.407   859  1150 D BtGatt.ScanManager: uid 10109 isForeground true scanMode -1
+06-04 17:25:24.410   594   608 W InputManager-JNI: Input channel object '3624bb5 Splash Screen com.example.avatarapp (client)' was disposed without first being removed with the input manager!
+06-04 17:25:24.423   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d231d0
+06-04 17:25:24.423   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d222d0
+06-04 17:25:24.445   859  1150 D BtGatt.ScanManager: uid 10109 isForeground true scanMode -1
+06-04 17:25:24.493   787  1020 W Parcel  : Expecting binder but got null!
+06-04 17:25:24.503 22674 22697 W Parcel  : Expecting binder but got null!
+06-04 17:25:24.516  1082  1082 D MainContentCaptureSession: Flushing 1 event(s) for act:com.google.android.apps.nexuslauncher/.NexusLauncherActivity [state=2 (ACTIVE), disabled=false], reason=FULL
+06-04 17:25:24.516   594   608 W InputManager-JNI: Input channel object '605cd67 com.example.avatarapp.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+06-04 17:25:24.525  1702  1822 I AiAiEcho: Predicting[0]:
+06-04 17:25:24.525  1702  1822 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:
+06-04 17:25:24.526  1702  1822 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface lockscreen with targets# 0
+06-04 17:25:24.527  1702  1822 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0
+06-04 17:25:24.527  1702  1822 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface media_data_manager with targets# 0
+06-04 17:25:24.532   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d26cb0
+06-04 17:25:24.538   594  1440 W InputManager-JNI: Input channel object '532324e Splash Screen com.example.avatarapp.test (client)' was disposed without first being removed with the input manager!
+06-04 17:25:24.594  1082  1082 E BcSmartspaceCard: No tap action can be set up
+06-04 17:25:24.640   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d28c30
+06-04 17:25:24.640   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d28e70
+06-04 17:25:24.640   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d23710
+06-04 17:25:24.681   403   769 E SurfaceFlinger: Only WindowManager is allowed to use eEarlyWakeup[Start|End] flags
+06-04 17:25:24.768   384   447 I RanchuHwc: validateDisplay: layer 371 CompositionType 1, fallback to client
+06-04 17:25:24.770   384   447 I RanchuHwc: validateDisplay: layer 370 CompositionType 1, fallback to client
+06-04 17:25:24.770   384   447 I RanchuHwc: validateDisplay: layer 368 CompositionType 1, fallback to client
+06-04 17:25:24.816   384   447 I RanchuHwc: validateDisplay: layer 371 CompositionType 1, fallback to client
+06-04 17:25:24.816   384   447 I RanchuHwc: validateDisplay: layer 370 CompositionType 1, fallback to client
+06-04 17:25:24.816   384   447 I RanchuHwc: validateDisplay: layer 368 CompositionType 1, fallback to client
+06-04 17:25:24.854  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+06-04 17:25:24.859   384   447 I RanchuHwc: validateDisplay: layer 371 CompositionType 1, fallback to client
+06-04 17:25:24.859   384   447 I RanchuHwc: validateDisplay: layer 370 CompositionType 1, fallback to client
+06-04 17:25:24.859   384   447 I RanchuHwc: validateDisplay: layer 368 CompositionType 1, fallback to client
+06-04 17:25:24.867  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+06-04 17:25:24.867  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.google.android.apps.nexuslauncher fieldId=-1 fieldName=null extras=null}, false)
+06-04 17:25:24.867  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+06-04 17:25:24.902   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d1fbd0
+06-04 17:25:24.903   384   447 I RanchuHwc: validateDisplay: layer 371 CompositionType 1, fallback to client
+06-04 17:25:24.903   384   447 I RanchuHwc: validateDisplay: layer 370 CompositionType 1, fallback to client
+06-04 17:25:24.903   384   447 I RanchuHwc: validateDisplay: layer 368 CompositionType 1, fallback to client
+06-04 17:25:24.951   384   447 I RanchuHwc: validateDisplay: layer 371 CompositionType 1, fallback to client
+06-04 17:25:24.951   384   447 I RanchuHwc: validateDisplay: layer 370 CompositionType 1, fallback to client
+06-04 17:25:24.951   384   447 I RanchuHwc: validateDisplay: layer 368 CompositionType 1, fallback to client
+06-04 17:25:24.975   384   447 I RanchuHwc: validateDisplay: layer 371 CompositionType 1, fallback to client
+06-04 17:25:24.975   384   447 I RanchuHwc: validateDisplay: layer 370 CompositionType 1, fallback to client
+06-04 17:25:24.975   384   447 I RanchuHwc: validateDisplay: layer 368 CompositionType 1, fallback to client
+06-04 17:25:25.019   403   769 E SurfaceFlinger: Only WindowManager is allowed to use eEarlyWakeup[Start|End] flags
+06-04 17:25:25.021   384   447 I RanchuHwc: validateDisplay: layer 371 CompositionType 1, fallback to client
+06-04 17:25:25.021   384   447 I RanchuHwc: validateDisplay: layer 370 CompositionType 1, fallback to client
+06-04 17:25:25.030   787  1020 D EGL_emulation: app_time_stats: avg=54.89ms min=5.28ms max=270.21ms count=17
+06-04 17:25:25.043   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:25.043   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:25.075   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:25.075   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:25.075   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:25.075   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:25.075   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:25.075   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:25.075   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:25.291 22640 22640 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@431766d in: STOPPED
+06-04 17:25:25.292 22640 22640 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@431766d
+06-04 17:25:25.299 22640 22640 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@431766d in: DESTROYED
+06-04 17:25:25.299 22640 22640 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-04 17:25:25.300   594  1440 W InputManager-JNI: Input channel object '65cd9fd com.example.avatarapp/androidx.activity.ComponentActivity (client)' was disposed without first being removed with the input manager!
+06-04 17:25:25.306   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d24f10
+06-04 17:25:25.307   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d28ed0
+06-04 17:25:25.307 22640 22660 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@55572f9]
+06-04 17:25:25.318 22640 22660 I TestRunner: finished: welcomeText_isVisible(com.example.avatarapp.EpisodeListTest)

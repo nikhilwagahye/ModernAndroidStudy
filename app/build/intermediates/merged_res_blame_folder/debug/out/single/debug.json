@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.avatarapp-merged_res-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.avatarapp-main-66:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-64:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.avatarapp-main-66:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-64:/xml_backup_rules.xml.flat",
+        "source": "com.example.avatarapp-main-66:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-64:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.avatarapp-main-66:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-64:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.avatarapp-main-66:/drawable/ic_launcher_foreground.xml"
+    }
+]

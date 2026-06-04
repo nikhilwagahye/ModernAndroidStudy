@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.avatarapp-mergeDebugResources-62:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/nikhil/.gradle/caches/transforms-3/d325144bed3507ac099e78a599ec8216/transformed/appcompat-1.5.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

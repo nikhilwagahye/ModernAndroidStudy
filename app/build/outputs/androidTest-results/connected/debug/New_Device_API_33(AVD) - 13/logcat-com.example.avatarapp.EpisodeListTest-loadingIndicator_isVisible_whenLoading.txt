@@ -1,0 +1,117 @@
+06-04 17:25:22.301 22640 22660 I TestRunner: started: loadingIndicator_isVisible_whenLoading(com.example.avatarapp.EpisodeListTest)
+06-04 17:25:22.308 22640 22660 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@e0782d6]
+06-04 17:25:22.311 22640 22660 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:25:22.355  1702  1822 I AiAiEcho: Predicting[0]:
+06-04 17:25:22.355  1702  1822 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:
+06-04 17:25:22.359  1702  1822 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface lockscreen with targets# 0
+06-04 17:25:22.359  1702  1822 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0
+06-04 17:25:22.359  1702  1822 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface media_data_manager with targets# 0
+06-04 17:25:22.363   787  1020 D EGL_emulation: app_time_stats: avg=175.61ms min=3.78ms max=1357.99ms count=10
+06-04 17:25:22.365 22640 22640 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@246efba in: PRE_ON_CREATE
+06-04 17:25:22.366 22640 22640 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-04 17:25:22.367  1082  1082 D MainContentCaptureSession: Flushing 1 event(s) for act:com.google.android.apps.nexuslauncher/.NexusLauncherActivity [state=2 (ACTIVE), disabled=false], reason=FULL
+06-04 17:25:22.368  1082  1082 E BcSmartspaceCard: No tap action can be set up
+06-04 17:25:22.369 22640 22640 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@246efba in: CREATED
+06-04 17:25:22.369 22640 22640 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@246efba
+06-04 17:25:22.370 22640 22640 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@246efba in: STARTED
+06-04 17:25:22.370 22640 22640 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@246efba
+06-04 17:25:22.370 22640 22640 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@246efba in: RESUMED
+06-04 17:25:22.370 22640 22640 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@246efba
+06-04 17:25:22.375   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:22.527   787   997 D SplashScreenView: Build android.window.SplashScreenView{bc2a302 V.E...... ......ID 0,0-0,0}
+06-04 17:25:22.527   787   997 D SplashScreenView: Icon: view: null drawable: null size: 0
+06-04 17:25:22.527   787   997 D SplashScreenView: Branding: view: android.view.View{5163413 G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+06-04 17:25:22.571 22640 22662 W Parcel  : Expecting binder but got null!
+06-04 17:25:22.615   594   611 W ziparchive: Unable to open '/data/app/~~C2uOZVzoy04Q8Cwnr3Dqbg==/com.example.avatarapp-Ei5BrHL0XT8J_xCUHlWhWg==/base.dm': No such file or directory
+06-04 17:25:22.616   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:22.619   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:22.621  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+06-04 17:25:22.625  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+06-04 17:25:22.625  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.avatarapp fieldId=-1 fieldName=null extras=null}, false)
+06-04 17:25:22.626   594   611 I ActivityTaskManager: Displayed com.example.avatarapp/androidx.activity.ComponentActivity: +260ms
+06-04 17:25:22.654   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d28ab0
+06-04 17:25:22.655  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+06-04 17:25:22.677   594   615 W InputManager-JNI: Input channel object 'c43017c Splash Screen com.example.avatarapp.test (client)' was disposed without first being removed with the input manager!
+06-04 17:25:22.731   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d26b30
+06-04 17:25:22.731   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:22.731   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:22.731   594  1810 W InputManager-JNI: Input channel object '429e46b com.example.avatarapp.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+06-04 17:25:22.757   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d25e70
+06-04 17:25:22.757   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d22750
+06-04 17:25:22.759   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:22.860   787  1020 D EGL_emulation: app_time_stats: avg=29.57ms min=0.83ms max=212.46ms count=25
+06-04 17:25:22.874   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d1f750
+06-04 17:25:22.875   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d24c10
+06-04 17:25:22.875   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:22.875   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:22.892 22640 22640 D AutofillManager: Fill dialog is enabled:false, hints=[password, passwordAuto, creditCardNumber, creditCardSecurityCode, creditCardExpirationDate]
+06-04 17:25:22.940   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:22.940   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:22.940   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:22.941   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.004   787   997 D SplashScreenView: Build android.window.SplashScreenView{4794c67 V.E...... ......ID 0,0-0,0}
+06-04 17:25:23.004   787   997 D SplashScreenView: Icon: view: null drawable: null size: 0
+06-04 17:25:23.004   787   997 D SplashScreenView: Branding: view: android.view.View{b971a14 G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+06-04 17:25:23.004 22640 22640 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@246efba in: PAUSED
+06-04 17:25:23.004 22640 22640 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@246efba
+06-04 17:25:23.029   859  1150 D BtGatt.ScanManager: uid 10109 isForeground true scanMode -1
+06-04 17:25:23.041   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.041   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.071 22674 22697 W Parcel  : Expecting binder but got null!
+06-04 17:25:23.074   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d29b30
+06-04 17:25:23.074   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d26170
+06-04 17:25:23.091   594   611 W ziparchive: Unable to open '/data/app/~~d2Bt5UWBPry_-kmyKByqMQ==/com.example.avatarapp.test-dlvojyWKdNTf60hpmgmSRQ==/base.dm': No such file or directory
+06-04 17:25:23.091   594   611 I ActivityTaskManager: Displayed com.example.avatarapp.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +82ms
+06-04 17:25:23.120  1082  1082 D MainContentCaptureSession: Flushing 1 event(s) for act:com.google.android.apps.nexuslauncher/.NexusLauncherActivity [state=2 (ACTIVE), disabled=false], reason=FULL
+06-04 17:25:23.138  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+06-04 17:25:23.159  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+06-04 17:25:23.159  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.avatarapp.test fieldId=-1 fieldName=null extras=null}, false)
+06-04 17:25:23.159  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+06-04 17:25:23.162   859  1150 D BtGatt.ScanManager: uid 10109 isForeground true scanMode -1
+06-04 17:25:23.164  1702  1822 I AiAiEcho: Predicting[0]:
+06-04 17:25:23.164  1702  1822 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:
+06-04 17:25:23.164  1702  1822 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface lockscreen with targets# 0
+06-04 17:25:23.164  1702  1822 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0
+06-04 17:25:23.164  1702  1822 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface media_data_manager with targets# 0
+06-04 17:25:23.174   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d29470
+06-04 17:25:23.174   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.174   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.174   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.226   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d22990
+06-04 17:25:23.226   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d27c70
+06-04 17:25:23.244   787  1020 W Parcel  : Expecting binder but got null!
+06-04 17:25:23.294  1082  1082 E BcSmartspaceCard: No tap action can be set up
+06-04 17:25:23.305   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.305   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.305   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.309   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d1ea30
+06-04 17:25:23.309   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.309   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.346   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.346   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.396   787  1020 D EGL_emulation: app_time_stats: avg=146.21ms min=45.61ms max=445.22ms count=7
+06-04 17:25:23.442  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+06-04 17:25:23.442  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+06-04 17:25:23.442  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.google.android.apps.nexuslauncher fieldId=-1 fieldName=null extras=null}, false)
+06-04 17:25:23.443  1528  1528 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+06-04 17:25:23.458   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d25cf0
+06-04 17:25:23.493   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.493   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.493   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.493   403   506 W TransactionTracing: Could not find layer id -1
+06-04 17:25:23.619   594  1797 W InputManager-JNI: Input channel object 'cd6cd85 Splash Screen com.example.avatarapp.test (client)' was disposed without first being removed with the input manager!
+06-04 17:25:23.624 22640 22640 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@246efba in: STOPPED
+06-04 17:25:23.624 22640 22640 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@246efba
+06-04 17:25:23.634 22640 22640 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@246efba in: DESTROYED
+06-04 17:25:23.634 22640 22640 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-04 17:25:23.636   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d21fd0
+06-04 17:25:23.636   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d26230
+06-04 17:25:23.636   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d22c90
+06-04 17:25:23.636   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d1f750
+06-04 17:25:23.636   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d21fd0
+06-04 17:25:23.636   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d22c90
+06-04 17:25:23.637   594  1797 W InputManager-JNI: Input channel object '9148a3c com.example.avatarapp/androidx.activity.ComponentActivity (client)' was disposed without first being removed with the input manager!
+06-04 17:25:23.641   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d22210
+06-04 17:25:23.641   403   506 W TransactionTracing: Could not find layer handle 0xb400006e01d275b0
+06-04 17:25:23.654 22640 22660 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@e0782d6]
+06-04 17:25:23.654 22640 22660 I TestRunner: finished: loadingIndicator_isVisible_whenLoading(com.example.avatarapp.EpisodeListTest)
