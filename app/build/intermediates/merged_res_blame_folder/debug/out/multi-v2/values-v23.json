@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.avatarapp-mergeDebugResources-62:/values-v23/values-v23.xml",
+            "outputFile": "com.example.avatarapp-mergeDebugResources-65:/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/Users/nikhil/.gradle/caches/transforms-3/4b5c7cad51185a94c43a4be811221c6e/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",

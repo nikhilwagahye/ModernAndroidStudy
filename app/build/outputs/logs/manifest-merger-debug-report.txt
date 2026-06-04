@@ -1,26 +1,29 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:2:1-35:12
 MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0] /Users/nikhil/.gradle/caches/transforms-3/7b49b0cfe6152757adcc08cafacca3af/transformed/hilt-navigation-compose-1.1.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.9.0] /Users/nikhil/.gradle/caches/transforms-3/eef277fd1c66e97d60528ed6de960677/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.compose.material3:material3:1.1.2] /Users/nikhil/.gradle/caches/transforms-3/2b18ea717ca67184589eb60c879c77cd/transformed/material3-1.1.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.hilt:hilt-navigation:1.1.0] /Users/nikhil/.gradle/caches/transforms-3/145c0ae44f63974e70a8bf1550021ee9/transformed/hilt-navigation-1.1.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.dagger:hilt-android:2.48] /Users/nikhil/.gradle/caches/transforms-3/9fd724c1a6d62e8bf7692086009e73f9/transformed/hilt-android-2.48/AndroidManifest.xml:16:1-19:12
 MERGED from [androidx.navigation:navigation-compose:2.5.1] /Users/nikhil/.gradle/caches/transforms-3/ce09d51b2a4d87b103f20b728681d455/transformed/navigation-compose-2.5.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/ca989d21393d2e0612a9a5ee403575db/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/d15a96e3b3c107e8c2a8c25b462f9b57/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/51a70f2436b4cf753f6d473ca295aebe/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/d15a96e3b3c107e8c2a8c25b462f9b57/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/3bcfddbce03ef6fad66c4e54eeb5c7ba/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/ca989d21393d2e0612a9a5ee403575db/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/8e6317fe43cd593bd1f82aa769bbae4a/transformed/animation-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/56171d0118a2b78c63cd15a578bf1336/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/a834212828cb9a5fd89be55709a1a4d6/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/52281ec0b045e27c74ef51a634126509/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/d9e61b914f0303df8e508e81f8509f1d/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/bc0dc1fff0cbb045b470eb4c99d6ad3e/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/f6fbba1b57be1be7457ff406b734bdd7/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/906651fa98aee4a7dedb5b234abe4d5a/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/ef9670771a40de23495266e8906eae46/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/1ba2a44b80f7ae2dccdbf4217ee57859/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/bb90c93b7282f25bc6c3ed42c91a44f0/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/db641d70a193ff0353ab47392513e83d/transformed/ui-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/7ba6a231d034a5c9e890922c72c27ec4/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:17:1-28:12
@@ -96,10 +99,12 @@ ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.x
 	android:name
 		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:7:5-27:19
-INJECTED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:7:5-27:19
+ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:7:5-33:19
+INJECTED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:7:5-33:19
 MERGED from [com.google.android.material:material:1.9.0] /Users/nikhil/.gradle/caches/transforms-3/eef277fd1c66e97d60528ed6de960677/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.9.0] /Users/nikhil/.gradle/caches/transforms-3/eef277fd1c66e97d60528ed6de960677/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/1ba2a44b80f7ae2dccdbf4217ee57859/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/1ba2a44b80f7ae2dccdbf4217ee57859/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/7ba6a231d034a5c9e890922c72c27ec4/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/7ba6a231d034a5c9e890922c72c27ec4/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nikhil/.gradle/caches/transforms-3/a541f833a7ca7e663396db9c34655654/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
@@ -138,26 +143,36 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nikhil/.gradle/cache
 		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:15:9-47
 	android:name
 		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:8:9-40
-activity#com.example.avatarapp.MainActivity
-ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:17:9-26:20
+activity#com.example.avatarapp.SecondActivity
+ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:17:9-21:54
 	android:label
-		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:20:13-37
+		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:20:13-58
 	android:exported
-		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:19:13-36
+		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:19:13-37
 	android:theme
 		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:21:13-51
 	android:name
-		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:18:13-41
+		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:18:13-43
+activity#com.example.avatarapp.MainActivity
+ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:22:9-32:20
+	android:label
+		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:25:13-37
+	android:exported
+		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:24:13-36
+	android:theme
+		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:26:13-51
+	android:name
+		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:23:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:22:13-25:29
+ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:23:17-69
+ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:23:25-66
+		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml:30:27-74
 uses-sdk
 INJECTED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml
@@ -174,18 +189,22 @@ MERGED from [com.google.dagger:hilt-android:2.48] /Users/nikhil/.gradle/caches/t
 MERGED from [com.google.dagger:hilt-android:2.48] /Users/nikhil/.gradle/caches/transforms-3/9fd724c1a6d62e8bf7692086009e73f9/transformed/hilt-android-2.48/AndroidManifest.xml:18:3-42
 MERGED from [androidx.navigation:navigation-compose:2.5.1] /Users/nikhil/.gradle/caches/transforms-3/ce09d51b2a4d87b103f20b728681d455/transformed/navigation-compose-2.5.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-compose:2.5.1] /Users/nikhil/.gradle/caches/transforms-3/ce09d51b2a4d87b103f20b728681d455/transformed/navigation-compose-2.5.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/ca989d21393d2e0612a9a5ee403575db/transformed/animation-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/ca989d21393d2e0612a9a5ee403575db/transformed/animation-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/d15a96e3b3c107e8c2a8c25b462f9b57/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/d15a96e3b3c107e8c2a8c25b462f9b57/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/51a70f2436b4cf753f6d473ca295aebe/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/51a70f2436b4cf753f6d473ca295aebe/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/d15a96e3b3c107e8c2a8c25b462f9b57/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/d15a96e3b3c107e8c2a8c25b462f9b57/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/3bcfddbce03ef6fad66c4e54eeb5c7ba/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/3bcfddbce03ef6fad66c4e54eeb5c7ba/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/ca989d21393d2e0612a9a5ee403575db/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/ca989d21393d2e0612a9a5ee403575db/transformed/animation-core-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/8e6317fe43cd593bd1f82aa769bbae4a/transformed/animation-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/8e6317fe43cd593bd1f82aa769bbae4a/transformed/animation-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/56171d0118a2b78c63cd15a578bf1336/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/56171d0118a2b78c63cd15a578bf1336/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/a834212828cb9a5fd89be55709a1a4d6/transformed/foundation-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/a834212828cb9a5fd89be55709a1a4d6/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/52281ec0b045e27c74ef51a634126509/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/52281ec0b045e27c74ef51a634126509/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/d9e61b914f0303df8e508e81f8509f1d/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/d9e61b914f0303df8e508e81f8509f1d/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/bc0dc1fff0cbb045b470eb4c99d6ad3e/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
@@ -196,6 +215,8 @@ MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/nikhil/.gradle/ca
 MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/906651fa98aee4a7dedb5b234abe4d5a/transformed/ui-text-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/ef9670771a40de23495266e8906eae46/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/ef9670771a40de23495266e8906eae46/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/1ba2a44b80f7ae2dccdbf4217ee57859/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/1ba2a44b80f7ae2dccdbf4217ee57859/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/bb90c93b7282f25bc6c3ed42c91a44f0/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/bb90c93b7282f25bc6c3ed42c91a44f0/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/db641d70a193ff0353ab47392513e83d/transformed/ui-release/AndroidManifest.xml:5:5-44
@@ -320,6 +341,12 @@ MERGED from [com.google.dagger:dagger-lint-aar:2.48] /Users/nikhil/.gradle/cache
 		INJECTED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/nikhil/Documents/POCs/AvatarApp/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/1ba2a44b80f7ae2dccdbf4217ee57859/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/1ba2a44b80f7ae2dccdbf4217ee57859/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/1ba2a44b80f7ae2dccdbf4217ee57859/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
 activity#androidx.activity.ComponentActivity
 ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/nikhil/.gradle/caches/transforms-3/7ba6a231d034a5c9e890922c72c27ec4/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:23:9-25:39
 	android:exported

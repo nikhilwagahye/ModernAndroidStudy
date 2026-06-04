@@ -1,22 +1,122 @@
 [
     {
-        "merged": "com.example.avatarapp-merged_res-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.avatarapp-main-66:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_8.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_8.xml"
     },
     {
-        "merged": "com.example.avatarapp-merged_res-64:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.avatarapp-main-66:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_13.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_13.xml"
     },
     {
-        "merged": "com.example.avatarapp-merged_res-64:/xml_backup_rules.xml.flat",
-        "source": "com.example.avatarapp-main-66:/xml/backup_rules.xml"
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/side_nav_bar.xml"
     },
     {
-        "merged": "com.example.avatarapp-merged_res-64:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.avatarapp-main-66:/drawable/ic_launcher_background.xml"
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_11.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_11.xml"
     },
     {
-        "merged": "com.example.avatarapp-merged_res-64:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.avatarapp-main-66:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_ic_gallery_black_24dp.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/ic_gallery_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_3.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_3.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/xml_backup_rules.xml.flat",
+        "source": "com.example.avatarapp-main-69:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.avatarapp-main-69:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_ic_slideshow_black_24dp.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/ic_slideshow_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_ic_camera_black_24dp.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/ic_camera_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_4.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_4.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_10.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_10.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_1.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_1.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_6.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_6.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_15.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_15.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/menu_navigation_drawer.xml.flat",
+        "source": "com.example.avatarapp-main-69:/menu/navigation_drawer.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.avatarapp-main-69:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_12.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_12.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.avatarapp-main-69:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/menu_overflow.xml.flat",
+        "source": "com.example.avatarapp-main-69:/menu/overflow.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_ic_settings_black_24dp.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_7.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_7.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_9.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_9.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_2.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_2.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/menu_bottom_navigation.xml.flat",
+        "source": "com.example.avatarapp-main-69:/menu/bottom_navigation.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_16.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_16.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_14.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_14.xml"
+    },
+    {
+        "merged": "com.example.avatarapp-merged_res-67:/drawable_avatar_5.xml.flat",
+        "source": "com.example.avatarapp-main-69:/drawable/avatar_5.xml"
     }
 ]

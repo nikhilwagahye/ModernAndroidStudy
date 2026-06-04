@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.avatarapp.domain.usecase.FilterEpisodesUseCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-06-04T11:23:49" hostname="192.168.1.8" time="0.001">
-  <properties/>
-  <testcase name="invoke with no matches should return empty list" classname="com.example.avatarapp.domain.usecase.FilterEpisodesUseCaseTest" time="0.001"/>
-  <testcase name="invoke should return episodes filtered by season" classname="com.example.avatarapp.domain.usecase.FilterEpisodesUseCaseTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

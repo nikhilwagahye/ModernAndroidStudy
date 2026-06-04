@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.avatarapp-mergeDebugResources-62:/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "com.example.avatarapp-mergeDebugResources-65:/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "/Users/nikhil/.gradle/caches/transforms-3/cfa5f8167fa116ee7c84795e4cc3cf74/transformed/core-1.12.0/res/values-pt-rBR/values-pt-rBR.xml",

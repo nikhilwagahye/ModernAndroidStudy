@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.avatarapp-mergeDebugResources-62:/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "com.example.avatarapp-mergeDebugResources-65:/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
                     "source": "/Users/nikhil/.gradle/caches/transforms-3/2b18ea717ca67184589eb60c879c77cd/transformed/material3-1.1.2/res/values-en-rGB/values-en-rGB.xml",

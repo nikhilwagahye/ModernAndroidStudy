@@ -68,6 +68,7 @@ dependencies {
     // Hilt
     implementation("com.google.dagger:hilt-android:2.48")
     implementation("androidx.lifecycle:lifecycle-runtime-compose:2.7.0")
+    debugImplementation("androidx.compose.ui:ui-tooling")
     kapt("com.google.dagger:hilt-android-compiler:2.48")
     implementation("androidx.hilt:hilt-navigation-compose:1.1.0")
 

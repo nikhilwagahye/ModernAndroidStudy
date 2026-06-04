@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.avatarapp-mergeDebugResources-62:/values-v28/values-v28.xml",
+            "outputFile": "com.example.avatarapp-mergeDebugResources-65:/values-v28/values-v28.xml",
             "map": [
                 {
                     "source": "/Users/nikhil/.gradle/caches/transforms-3/eef277fd1c66e97d60528ed6de960677/transformed/material-1.9.0/res/values-v28/values-v28.xml",

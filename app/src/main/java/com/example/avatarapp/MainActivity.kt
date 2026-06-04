@@ -1,5 +1,6 @@
 package com.example.avatarapp
 
+import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.ComponentActivity
@@ -22,6 +23,7 @@ import com.example.avatarapp.ui.MainViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch
 import javax.inject.Inject
+import kotlin.jvm.java
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
@@ -99,6 +101,21 @@ fun EpisodeListContent(
             ) {
                 Text("Show Toast")
             }
+
+            Button(
+                onClick = {
+                    // 2. Initialize the Intent targeting your second activity
+                    val intent = Intent(context, SecondActivity::class.java).apply {
+                        putExtra("USER_NAME_KEY", "Nikhil")
+                        putExtra("USER_AGE_KEY", 36)
+                    }
+                    // 3. Launch the target activity
+                    context.startActivity(intent)
+                },
+            ) {
+                Text("Nav to next")
+            }
+
 
             if (isLoading) {
                 CenteredProgressIndicator()

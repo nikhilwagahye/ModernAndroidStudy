@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.avatarapp-mergeDebugResources-62:/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "com.example.avatarapp-mergeDebugResources-65:/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
                     "source": "/Users/nikhil/.gradle/caches/transforms-3/2b18ea717ca67184589eb60c879c77cd/transformed/material3-1.1.2/res/values-en-rIN/values-en-rIN.xml",
