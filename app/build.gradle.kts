@@ -41,7 +41,7 @@ android {
         compose = true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.4.3"
+        kotlinCompilerExtensionVersion = "1.5.1"
     }
 
     packaging {
@@ -80,6 +80,18 @@ dependencies {
     // ViewModel Compose
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
 
+
+    // Room
+    val room_version = "2.6.0"
+    implementation("androidx.room:room-runtime:$room_version")
+    ksp("androidx.room:room-compiler:$room_version")
+    implementation("androidx.room:room-ktx:$room_version")
+
+    // ViewModel utilities for Compose
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
+
+    // OkHttp
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
 
     // Kotlinx Serialization dependency
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.2.2")

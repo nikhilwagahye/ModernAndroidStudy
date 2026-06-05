@@ -6,6 +6,8 @@ import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
+import okhttp3.OkHttpClient
+import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
 import javax.inject.Singleton
@@ -21,6 +23,7 @@ object NetworkModule {
 
         return Retrofit.Builder()
             .baseUrl("https://api.sampleapis.com/")
+            .client(provideOkHttpClient())
             .addConverterFactory(MoshiConverterFactory.create(moshi))
             .build()
     }
@@ -31,6 +34,30 @@ object NetworkModule {
         return retrofit.create(ApiService::class.java)
     }
 }
+
+private fun provideOkHttpClient(): OkHttpClient {
+    // Logging Interceptor to print requests/responses to Logcat
+    val loggingInterceptor = HttpLoggingInterceptor().apply {
+        level = HttpLoggingInterceptor.Level.BODY
+    }
+
+    return OkHttpClient.Builder()
+        // Auth Interceptor: Automatically attach a Bearer Token to all requests
+//            .addInterceptor { chain ->
+//                val originalRequest = chain.request()
+//                val authenticatedRequest = originalRequest.newBuilder()
+//                    .header("Authorization", "Bearer YOUR_ACCESS_TOKEN")
+//                    .build()
+//                chain.proceed(authenticatedRequest)
+//            }
+        .addInterceptor(AuthInterceptor())
+        .addInterceptor(loggingInterceptor)
+//            .connectTimeout(30, TimeUnit.SECONDS)
+//            .readTimeout(30, TimeUnit.SECONDS)
+//            .writeTimeout(30, TimeUnit.SECONDS)
+        .build()
+}
+
 /*
 
 package com.example.avatarapp.di
